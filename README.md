@@ -1,2 +1,2 @@
-# -django-react-boilerplate
+# django-react-boilerplate
 Django + react boilerplate for Saas
